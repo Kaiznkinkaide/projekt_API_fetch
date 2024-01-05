@@ -1,0 +1,12 @@
+section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+div {
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.551);
+    width: 25%;
+    padding: 2rem;
+}
